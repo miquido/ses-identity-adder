@@ -1,5 +1,5 @@
 <!-- markdownlint-disable -->
-# sns-notifications <a href="https://miquido.com"><img align="right" src="https://cdn.miquido.dev/miquido-logo.png" width="150" /></a>
+# SES identity adder <a href="https://miquido.com"><img align="right" src="https://cdn.miquido.dev/miquido-logo.png" width="150" /></a>
 
 <!-- markdownlint-restore -->
 
