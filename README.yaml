@@ -1,6 +1,6 @@
-name: sns-notifications
+name: SES identity adder
 repos:
-  gitlab: miquido/terraform/ecs-failed-deployment-check
+  gitlab: miquido/terraform/ses-identity-adder
 badges: [ ]
 related: [ ]
 description: |-
