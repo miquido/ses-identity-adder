@@ -1,0 +1,22 @@
+name: sns-notifications
+repos:
+  gitlab: miquido/terraform/ecs-failed-deployment-check
+badges: [ ]
+related: [ ]
+description: |-
+  Adds lambda that enables to easily add identity to AWS
+usage: |-
+
+  ```hcl
+    module "ses-identity-adder" {
+      source      = "git::https://github.com/miquido/ses-identity-adder"
+      environment = "example"
+      project     = "example"
+    }
+  ```
+
+include:
+  - "docs/terraform.md"
+
+# License of this project
+license: "MIT"
